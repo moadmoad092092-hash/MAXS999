@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">APPIFY</string>
+    <string name="loading">جارٍ تحميل الموقع…</string>
+    <string name="offline_message">لا يوجد اتصال بالإنترنت. تحقق من الشبكة ثم حاول مجددًا.</string>
+    <string name="load_error">تعذر تحميل هذا الموقع. تحقق من الرابط والاتصال.</string>
+    <string name="retry">إعادة المحاولة</string>
+</resources>
